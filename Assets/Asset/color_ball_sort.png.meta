@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: a8ed399d5a57f1244adbd51e45b6e798
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6652997496193927450
+    second: color_ball_sort_0
+  - first:
+      213: 2172298870574144527
+    second: color_ball_sort_1
+  - first:
+      213: 6259906278986648034
+    second: color_ball_sort_2
+  - first:
+      213: -4898620637784130038
+    second: color_ball_sort_3
+  - first:
+      213: 1309032364770087763
+    second: color_ball_sort_4
+  - first:
+      213: -1898511559560892980
+    second: color_ball_sort_5
+  - first:
+      213: -381257326601980667
+    second: color_ball_sort_6
+  - first:
+      213: 1790980806788484133
+    second: color_ball_sort_7
+  - first:
+      213: 1065730643206109055
+    second: color_ball_sort_8
+  - first:
+      213: -5580156123522772427
+    second: color_ball_sort_9
+  - first:
+      213: 293485398319722062
+    second: color_ball_sort_10
+  - first:
+      213: -2505402446911627490
+    second: color_ball_sort_11
+  - first:
+      213: 3268390874029690789
+    second: color_ball_sort_12
+  - first:
+      213: -5681847778137937311
+    second: color_ball_sort_13
+  - first:
+      213: 7683048309429335153
+    second: color_ball_sort_14
+  - first:
+      213: 8705393175654548656
+    second: color_ball_sort_15
+  - first:
+      213: 5456647790578031270
+    second: color_ball_sort_16
+  - first:
+      213: -3792336868572794224
+    second: color_ball_sort_17
+  - first:
+      213: 5252260713673301907
+    second: color_ball_sort_18
+  - first:
+      213: 1560725542974900629
+    second: color_ball_sort_19
+  - first:
+      213: 6655848332287353291
+    second: color_ball_sort_20
+  - first:
+      213: -1805677556500954398
+    second: color_ball_sort_21
+  - first:
+      213: -2371184780159997264
+    second: color_ball_sort_22
+  - first:
+      213: 1874376686101618100
+    second: color_ball_sort_23
+  - first:
+      213: -6555477452658143867
+    second: color_ball_sort_24
+  - first:
+      213: 3344184649399124052
+    second: color_ball_sort_25
+  - first:
+      213: -4233286852352281816
+    second: color_ball_sort_26
+  - first:
+      213: -558500481925892809
+    second: color_ball_sort_27
+  - first:
+      213: -4433523514672710845
+    second: color_ball_sort_28
+  - first:
+      213: 5859964125060603088
+    second: color_ball_sort_29
+  - first:
+      213: 324049853507411789
+    second: color_ball_sort_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: color_ball_sort_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1961
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19c33449f1345c50800000000000000
+      internalID: 6652997496193927450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1961
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cdd8e305e852e10800000000000000
+      internalID: 2172298870574144527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1961
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e98c362897afd650800000000000000
+      internalID: 6259906278986648034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1961
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eba73eb7a940cb0800000000000000
+      internalID: -4898620637784130038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_4
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1857
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3535c9d000e9a2210800000000000000
+      internalID: 1309032364770087763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_5
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1857
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd666a9bc127a5e0800000000000000
+      internalID: -1898511559560892980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_6
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1857
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505bfdf3b7085baf0800000000000000
+      internalID: -381257326601980667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1688
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c8b240e87dad810800000000000000
+      internalID: 1790980806788484133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1688
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f777c8e9f5c3ace00800000000000000
+      internalID: 1065730643206109055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_9
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1688
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5325432129d4f82b0800000000000000
+      internalID: -5580156123522772427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_10
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1849
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e6c913a6ba21400800000000000000
+      internalID: 293485398319722062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_11
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1849
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f107cafb50b3dd0800000000000000
+      internalID: -2505402446911627490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_12
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1692
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af0ba9ee28ab5d20800000000000000
+      internalID: 3268390874029690789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1191
+        width: 952
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aee3cac850621b0800000000000000
+      internalID: -5681847778137937311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1579
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17473bb1bbbaf9a60800000000000000
+      internalID: 7683048309429335153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_15
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1579
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4cff858f4cfc870800000000000000
+      internalID: 8705393175654548656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_16
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1372
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aad2d54148e9bb40800000000000000
+      internalID: 5456647790578031270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 810
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092f910f5b9ee5bc0800000000000000
+      internalID: -3792336868572794224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_18
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1070
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f9c3a9a47c3e840800000000000000
+      internalID: 5252260713673301907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1070
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599c5ecbc9fc8a510800000000000000
+      internalID: 1560725542974900629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_20
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1144
+        width: 303
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc12dd44bc25e5c50800000000000000
+      internalID: 6655848332287353291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_21
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1073
+        width: 133
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28dd944d1f0f6e0800000000000000
+      internalID: -1805677556500954398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_22
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1054
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba20c9610cd71fd0800000000000000
+      internalID: -2371184780159997264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_23
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 50
+        width: 810
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd5c564aaf130a10800000000000000
+      internalID: 1874376686101618100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_24
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 742
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d8a3d3df34605a0800000000000000
+      internalID: -6555477452658143867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_25
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 422
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450cfba683ee86e20800000000000000
+      internalID: 3344184649399124052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_26
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 102
+        width: 213
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823f53569085045c0800000000000000
+      internalID: -4233286852352281816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_27
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 303
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7353cef45cecf38f0800000000000000
+      internalID: -558500481925892809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_28
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 220
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b779c6ad5f872c0800000000000000
+      internalID: -4433523514672710845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_29
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 136
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc15c60356c25150800000000000000
+      internalID: 5859964125060603088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: color_ball_sort_30
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 53
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f93d7ff914f7400800000000000000
+      internalID: 324049853507411789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      color_ball_sort_0: 6652997496193927450
+      color_ball_sort_1: 2172298870574144527
+      color_ball_sort_10: 293485398319722062
+      color_ball_sort_11: -2505402446911627490
+      color_ball_sort_12: 3268390874029690789
+      color_ball_sort_13: -5681847778137937311
+      color_ball_sort_14: 7683048309429335153
+      color_ball_sort_15: 8705393175654548656
+      color_ball_sort_16: 5456647790578031270
+      color_ball_sort_17: -3792336868572794224
+      color_ball_sort_18: 5252260713673301907
+      color_ball_sort_19: 1560725542974900629
+      color_ball_sort_2: 6259906278986648034
+      color_ball_sort_20: 6655848332287353291
+      color_ball_sort_21: -1805677556500954398
+      color_ball_sort_22: -2371184780159997264
+      color_ball_sort_23: 1874376686101618100
+      color_ball_sort_24: -6555477452658143867
+      color_ball_sort_25: 3344184649399124052
+      color_ball_sort_26: -4233286852352281816
+      color_ball_sort_27: -558500481925892809
+      color_ball_sort_28: -4433523514672710845
+      color_ball_sort_29: 5859964125060603088
+      color_ball_sort_3: -4898620637784130038
+      color_ball_sort_30: 324049853507411789
+      color_ball_sort_4: 1309032364770087763
+      color_ball_sort_5: -1898511559560892980
+      color_ball_sort_6: -381257326601980667
+      color_ball_sort_7: 1790980806788484133
+      color_ball_sort_8: 1065730643206109055
+      color_ball_sort_9: -5580156123522772427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
